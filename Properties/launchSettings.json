@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CPCA": {
+      "commandName": "Project",
+      "nativeDebugging": false,
+      "hotReloadEnabled": true
+    }
+  }
+}
